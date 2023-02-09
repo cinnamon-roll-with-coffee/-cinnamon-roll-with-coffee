@@ -1,5 +1,5 @@
 cinnamon-roll-with-coffee
 
-Hi! My name is cinnamon! Welcome to my profile!
+:wave: Hi! Welcome to my profile! 
 
-I graduated on Applied Math by Fundação Getulio Vargas.
+I graduated on Applied Math by Fundação Getulio Vargas and here are some of my codes.
